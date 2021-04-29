@@ -36,3 +36,13 @@
 .span2 {
   grid-column: 1 / span 2;
 }
+
+.mensagem{
+  width: 100%;
+  padding: 20px;
+
+  color: white;
+  text-align: center;
+  background-color: #8b0000DD; /* rgba = red, green, blue, alpha */
+  border-radius: 0px 0px 6px 6px;
+}
